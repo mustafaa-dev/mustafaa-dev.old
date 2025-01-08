@@ -5,9 +5,10 @@
 ###
 
 <br clear="both">
-[![GitHub Streak](https://streak-stats.demolab.com?user=mustafaa-dev&theme=dracula&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mustafaa-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mustafaa-dev&theme=dracula&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" /></a> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaa-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
